@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/64/8e/bd/648ebd719383e392bf1b15c23b3e518a.jpg" alt="Alt Text" width="900" height="200">
+<img src="https://i.pinimg.com/736x/08/36/03/0836031c95762bdfd5ec95d9d20184a6.jpg" alt="Alt Text" width="900" height="200">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-mohamed-0144b3244/) 
