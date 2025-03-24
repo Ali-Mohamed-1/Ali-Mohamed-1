@@ -1,5 +1,4 @@
-![alt text](![image](https://github.com/user-attachments/assets/4fb70de4-2721-4aba-8ca1-67733ac0af50)
-)
+![alt text](https://i.pinimg.com/736x/d3/8f/5b/d38f5bdf80f587c3904efef95cd1249c.jpg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-mohamed-0144b3244/) 
 
